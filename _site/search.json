@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kurian Benoy",
+    "section": "",
+    "text": "Hi, I’m Kurian Benoy, a ML Engineer who is working in sentient.io. I have been building impactful data science projects over the past few years."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Kurian Benoy",
+    "section": "Bio",
+    "text": "Bio\nHi, I’m Kurian Benoy, a ML Engineer who is working in sentient.io. I have been building impactful data science projects over the past few years."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "kurianbenoy",
+    "section": "",
+    "text": "First Vacation Experience\n\n\n\n\n\n\n\nTravel\n\n\nLife\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nGetting featured in Spaces of the week and my latest two gradio spaces\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nStarting an open-source project - Malayalam Text Classifier\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nA letter to my future self\n\n\n\n\n\n\n\nmyself\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning For Coders with fastai Couse - Lesson 3\n\n\n\n\n\n\n\n\n\n\n\n\nkurianbenoy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning For Coders with fastai Couse - Lesson 2\n\n\n\n\n\n\n\n\n\n\n\n\nkurianbenoy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPractical Deep Learning for Coders - Lesson 0\n\n\n\n\n\n\n\n\n\n\n\n\nkurianbenoy\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning For Coders with fastai Couse - Lesson 3\n\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2022\n\n\nkurianbenoy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnrolling for Deep Learning Course with fastai\n\n\n\n\n\n\n\nfastai\n\n\nfastbook\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning For Coders with fastai Couse - Lesson 1\n\n\n\n\n\n\n\n\n\n\n\n\nApr 26, 2022\n\n\nkurianbenoy\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2022-04-26-fastai-51.html",
+    "href": "posts/2022-04-26-fastai-51.html",
+    "title": "Deep Learning For Coders with fastai Couse - Lesson 1",
+    "section": "",
+    "text": "Jeremy said there are two types of student:\n\nUQ student who attend lessons in class(almost 350 there and also 100 remotely)\nfastai live\n\nIf you have N95, K95 it’s live\nHaving study buddies, will be very helpful to pursue a study group. This is the version 5 of this course, and it’s amazing things have changed. Identifying a bird in 2015, was virtually impossible. Images are made of numbers\nDeep learning moves so fast, since it’s using Dalle-2 input images and generate twitter bios. Happy sisiphus, using twitter bios to generate computer visions. Nick spends less than 2 minutes, and it’s very helpful for creative people.\nNow the Pathways language model, read english models. It answers question with explanation. Explains jokes.\n@Tanishq Abraham https://ethics.fast.ai/ - created by learning\nRadek build caps.fast.ai, and Radek got into NvidaAI\nHe is a homeschooler, he taught about Paul Lockhart & David Perkins with inspiration from fast.ai. You will go into as much technical stuff, yet you will learn who finds cool stuff.\nHe wrote an awesome book and this course, we are not using any material from directly. Multiple people learn in a different way, with different source. Always read one portion of book after each chapter. No content from fastbook in this book.\nEntilitic, he build a good medical company. Almost 6 million people watched his videos. It’s amazing to see why lot of people like in tesla, OpenAI they use the course.\nWhy couldn’t we build a bird recognizer in 2012?\n\nTaking histopothical images. They used computer vision techniques\nThey got big team of datascientist, mathematicans with lot of features\nThe project took years\nin deep learning(it was not in their radar)\nVery succesfull, neural network build these features on ourself.\nMathew D Zeiler & Rob Fergus(and actual weights)\nCombine all features to learn and go slowly with things. Don’t come up with any of these.\n\nImage based algorithms, are not for images. Image for music classification by Deolho, Ethan sutin sounds from image recognizer. Pictures from music classification, with some creativity\nLots of data is a myth by companies who sell data processing units. Lot of free resources. Transfer learning & Pytorch vs Tensorflow. Tensorflow is now slowly dying in research. IN research repos, tensorflow research. https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/\nWill be increasingly released, that pytorch will sustain. Lot of hairy code in pytorch. Writing lot of code is bad. Always less code is better.\nWeightDecay with Adam. He is using JupyterNotebook for slides. Insane\nhttps://github.com/fastai/fastbook/blob/master/16_accel_sgd.ipynb(AdamW explained here)\nPets notebooks\nFastdownload resize_image(), thumb()\nYou spend lot of time of building and loading models. Like in compiler course. Jeremy uses functional kind of programming, works for him very well. He uses map and all lot. The five things in Datablock based on 100 and 100s of project:\n\nblocks\nget_items\nsplitter\nBatch_tfms(optional)\nget_y\nitem_tfms\n\nWithout validation data, it won’t allow to train. parent_label, return parent folder. we saved as forests or birds. We need same size. Idea to do quickly, why not publish vision_learners with pets dataset.\nJeremy used RiseJS Jupyter Notebook for presentation. https://rise.readthedocs.io/en/stable/\nJupter Notebooks, for blogging, writing books testing CI/CD with notebooks in parallel.\nWe are still scratching the surface. Lot of marketing out there, some of first open source course available. The deep learning when it broke X, y, z in domain. In NLP it breaks lot of stuff\nWhat’s really go in on : in arthur samuel with graph. The graphs are build with gv2 in jupyter notebook. Deploying models in ML is a bit tricky. But it’s just predict and shows results.\nSo after first lesson:\n\nIf you know python, this is easy\nIf don’t know python, it’s very difficult\n\nRegardless as where you are. Experiment and do something more complex, do more categories. Go ahead and push yourself a little bit, but not much. Then present your work. Do stuff on things where you are interested. Students moving to disaster resilence with lot of other things.\nSplunk a patentent project using fradusters identification, envision\nJeremy says:\n\nRead questionnares at end of book\nAlway look output of your images\nLook at quiz question before you are here."
+  },
+  {
+    "objectID": "posts/2022-04-26-fastai-50.html",
+    "href": "posts/2022-04-26-fastai-50.html",
+    "title": "Practical Deep Learning for Coders - Lesson 0",
+    "section": "",
+    "text": "Last few weeks, I enrolled for the live cohort of Deep Learning For Coders with fastai Couse which is going to be taken by Jeremy Howard. It’s’ a previlege at the same time, a dream come true moment for me, as a fastai student who took some part of fast.ai from the year 2018.\nWhatever I have done in ML can be partly attributed to the way and the Jeremy motivated students to be world class researchers. The fastai course has seen lot of success stories from folks like Aman Arora, Deoldify creator, Sanyam Bhutani, Even Oldrige, Jason Antic Radek, Zach Mueller, Wayde Gilliam and much more. Jeremy has inspired and enabled multiple people to be practitioners in Deep Learning. {bhuvani an example}\nI still feel I am a late boomer, and due to pursuing a work along with academics. I am in a position to be extremely careful with what I spend time with and things I do.\nI will do following:\n\nTry out every notebook given by Jeremy during class and writes in Kaggle\nbreath and look through pytorch tutorials\nWrite blogpost every week with lesson summary and occasionally on new things I learning during course.\nParticipate in NLP competition provided by jeremy link\n\nI won’t do:\n\nWon’t read Pytorch book(even though it’s very tempting to do)\nBe active in twitter during course\nRead EDA notebooks\nWon’t write any notebooks in tensorflow :)"
+  },
+  {
+    "objectID": "posts/2022-07-06-gradio_spaces.html",
+    "href": "posts/2022-07-06-gradio_spaces.html",
+    "title": "Getting featured in Spaces of the week and my latest two gradio spaces",
+    "section": "",
+    "text": "I recently created two gradio based webapps, and one of my spaces - Paddy Doctor got featured in list of hugging face Spaces of the week.\n\n\n\nimage\n\n\nBoth gradio apps based on two kaggle competitions which I have been participating in. Both are on computer vision models with one to identify the type of disease in the paddy crop and another to identify the name of flowers(which I am terribly bad at remembering names).\nDo checkout the links below for the spaces\nPaddy Doctor\nIdentify which flower"
+  },
+  {
+    "objectID": "posts/2022-04-20-Letter.html",
+    "href": "posts/2022-04-20-Letter.html",
+    "title": "A letter to my future self",
+    "section": "",
+    "text": "Hey Kurian in future,\n\nDon’t marry any technologies, and don’t just be associated to any particular field, programming language. Remember about the time your username was django_master and luckily getting selected to first Pycon talk changed everything.\nAlways respect & care parents & elders\nRemember everything is just Maya Maya (just pointless) as stated by wisest of wise person.\nWhen you are thinking goosebumps or feel proud of something, remember that sooner or later there is a low point coming.\nAlways look back to your past and be grateful for everything. Also look at your core and remember where you started.\n\nSigning off, Kurian"
+  },
+  {
+    "objectID": "posts/2022-02-16-first_vacation.html",
+    "href": "posts/2022-02-16-first_vacation.html",
+    "title": "First Vacation Experience",
+    "section": "",
+    "text": "I had taken my longest vacation from work in past week for four days. It was really enjoyable, and I was planning to do that for a long time. Yet due to Covid lockdown and bunch of other things it was late.Also the planning part for the vaction was really interesting at the same time hectic. My initial plan was to visit a old palace ie Padmnapuram palace in Thuckalay, Tamil Naidu. Unfortunately, it didn’t work out.\nSo I pivoted my plan to stay in any hotel/resort. Before telling about the experience let me tell, what motivated me to take my vacation at the first place. It was an article by Randy Au who gave a really useful insight why taking vacation is important with a realistic angle. In the article the lessons on why we are not important to any organization and planning aspect is well covered. Randy Au answered my question on how to treat travelling as a hobby as well when I asked in a Twitter AMA.\nI applied for four days of leave well in advance before planning where I am going to plan. Then I started my journey of hunting the perfect place to stay. After almost 20+ hotel enquiries and also trying to accomodate everyone in my family to come with me. The outcome was kind of final. Unfortunately not everyone in my family was willing to come with me except my mother. After a lot of searching we decided to book the hotel at Mango Meadows and set aside one day to travel with my family in Kochi(by spending time on shopping & a buffet dinner).\nAbout the resort I stayed. Mango meadows resort is an excellent place and is an agricultural themed park. The place is filled with natural beauty and bought me closer to nature during the stay. Unlike typical resorts where you have just one small area, here you have 30 acres of land with lot of facilities like a amusment park. For me some of the memorable experiences during two day stay at Mango Meadows was swimming in pay pool, then cycling followed by bumpy ride in london metro. Staff were excellent and 5 stars review for the resort.\nSo was all the travelling really worth it? Back to work next day back I had lot of messages and 70+ emails to answer. This proved everything Randy said, and slowly one day I will also get better at vacationing. Also we started planning for our next big trip to Armenia which will materialize one day hopefully."
+  }
+]

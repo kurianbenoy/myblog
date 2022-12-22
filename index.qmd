@@ -1,0 +1,15 @@
+---
+title: "Kurian Benoy"
+about:
+  template: trestles
+page-layout: full
+comments: false
+---
+
+
+## Bio
+
+Hi, I'm Kurian Benoy, a ML Engineer who is working in sentient.io. I have been building impactful data science projects
+over the past few years.
+
+ 
