@@ -1,6 +1,7 @@
 project:
   type: website
-
+  preview:
+    port: 4900 
 website:
   title: "kurianbenoy"
   navbar:

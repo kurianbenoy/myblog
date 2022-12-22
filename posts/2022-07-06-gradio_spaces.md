@@ -1,10 +1,17 @@
 ---
-title: Getting featured in Spaces of the week and my latest two gradio spaces
-type: post
-tags: [huggingface, Deep learning, fastai]
-readtime: true
-published: true
+aliases:
+- /Deep learning/fastai/huggingface/2022/07/06/gradio_spaces
+categories:
+- huggingface
+- Deep learning
+- fastai
 comments: false
+date: '2022-07-06'
+layout: post
+published: true
+readtime: true
+title: Getting featured in Spaces of the week and my latest two gradio spaces
+
 ---
 
 I recently created two gradio based webapps, and one of my spaces - Paddy Doctor got featured

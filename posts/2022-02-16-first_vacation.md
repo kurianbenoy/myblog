@@ -1,7 +1,13 @@
 ---
-title: First Vacation Experience
+aliases:
+- /Life/Travel/2022/02/16/first_vacation
+categories:
+- Travel
+- Life
+date: '2022-02-16'
 layout: post
-categories: [Travel, Life]
+title: First Vacation Experience
+
 ---
 
 I had taken my longest vacation from work in past week for four days. It
