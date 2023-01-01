@@ -5,7 +5,7 @@ categories:
 layout: post
 readtime: true
 title: What are Parameters and filters in Redash?
-
+date: '2021-02-04'
 ---
 
 Let's start with what are **parameters in Redash**. Parameters are useful for providing user interactivity for analytics, where they can pass interactive queries. Usually, we do most of the analytics based on certain predefined values while parameters allow users to run queries they want to generate insights on months, time ranges or values they want. Redash supports queries with parameters in both SQL, MongoDB
