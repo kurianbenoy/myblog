@@ -1,6 +1,12 @@
 ---
+aliases:
+- /myself/2020/06/09/CS229_lessonnotes
+categories:
+- myself
+date: '2020-06-09'
+layout: post
 title: CS229 - Lesson Notes
-type: post
+
 ---
 
 > This is just a post for myself to write notes while watching videos, so it may contain lot

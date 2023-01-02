@@ -1,8 +1,11 @@
 ---
+aliases:
+- /2020/11/16/Various_python_distributions
+date: '2020-11-16'
+layout: post
 title: Various Python Distributions
-type: post
----
 
+---
 
 ## Various Python Distributions
 

@@ -1,8 +1,14 @@
 ---
-title: My Visual Studio Setup 
-type: post
-tags: [coding, life]
+aliases:
+- /coding/life/2020/10/13/MyVSCODE_setup
+categories:
+- coding
+- life
+date: '2020-10-13'
+layout: post
 readtime: true
+title: My Visual Studio Setup
+
 ---
 
 It's 1AM in the morning, and I am about to call it for the night. I realize if I don't write this piece, it's never going 

@@ -1,7 +1,11 @@
 ---
-title: Replace one host name with another host name in Javascript
-type: post
+aliases:
+- /2020/02/26/replaceurl
+date: '2020-02-26'
+layout: post
 readtime: true
+title: Replace one host name with another host name in Javascript
+
 ---
 
 Problem: You are given a host name, and from it you want to replace host name of one website with another which follows the exact Url pattern

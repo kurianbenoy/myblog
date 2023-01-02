@@ -1,6 +1,11 @@
 ---
-title: My 2020 resolutions
+aliases:
+- /2020/01/13/newbeginnings
 author: Kurian Benoy
+date: '2020-01-13'
+layout: post
+title: My 2020 resolutions
+
 ---
 
 My new year resolution is to work more harder and be more organised. In this post I will be sharing some of

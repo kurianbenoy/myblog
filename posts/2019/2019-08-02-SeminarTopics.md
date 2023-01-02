@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seminar ideas
-comments: true
+tags: ['myself']
 ---
 
 

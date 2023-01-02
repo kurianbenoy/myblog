@@ -7,7 +7,6 @@ tags:
 - academic
 - Deep learning
 - ML
-comments: true
 ---
 
 This blogpost is a short summary of the [research paper](https://arxiv.org/abs/1812.01718) authored by

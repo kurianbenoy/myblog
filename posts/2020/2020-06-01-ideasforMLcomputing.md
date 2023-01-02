@@ -1,6 +1,12 @@
 ---
+aliases:
+- /Malayalam/SMC/2020/06/01/ideasforMLcomputing
+categories:
+- Malayalam
+- SMC
+date: '2020-06-01'
+layout: post
 title: Ideas for ML computing
-type: post
 
 ---
 
@@ -8,8 +14,8 @@ Disclaimer: ML stands not for machine learning, but for Malayalam
 
 Swathanthra Malayalam in association with Tinkerhub conducted a special program called **People behind SMC**. *SMC is
 preimier* organisation working in the area of Malayalam computing. It was interesting to listen to experiences of
-various folks like Anivar, Santhosh thottingal sir, Balasankar C, Jishnu Mohan, Kavya Manohar, .. The sessions was
-hosted by Hrishi Chettai in Tinkerhubs instagram pages. The recorded sessions can be found <here>
+various folks like Anivar, Santhosh thottingal sir, Balasankar C, Jishnu Mohan, Kavya Manohar etc. The sessions was
+hosted by Hrishi Chettai in Tinkerhubs instagram pages. The recorded sessions can be found [here](https://www.youtube.com/@SmcOrgIn/videos).
 
 After listening to these talks, I want to share some ideas which came in my mind:
 
@@ -35,5 +41,3 @@ being published. Another idea in my mind is to create a dataset of KHA bulletins
 and dataset can be placed in SMC project's text corpus. The initial data has been collected and uploaded <kaggle
 dataset>. Yet one of the challenges is how to convert these PDFs to a useful format for data analysis. In Kaggle they
 converted the CORD dataset into a no of JSon files.
-
-## mention ML projects

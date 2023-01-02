@@ -1,9 +1,14 @@
 ---
-layout: post
-title: Books- January and February
+aliases:
+- /books/2020/03/07/Books_readFebruary
 author: kurianbenoy
-tags: [books]
+categories:
+- books
+date: '2020-03-07'
+layout: post
 readtime: true
+title: Books- January and February
+
 ---
 
 ## The 7 habits of highly effective people - Stephen R. Covey

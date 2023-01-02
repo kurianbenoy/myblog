@@ -1,9 +1,14 @@
 ---
-title: Books read in 2020
-type: post
+aliases:
+- /books/2020/06/01/Books_read
 author: kurianbenoy
-tags: [books]
+categories:
+- books
+date: '2020-06-01'
+layout: post
 readtime: true
+title: Books read in 2020
+
 ---
 
 The books I have read so far in 2020 are:

@@ -2,7 +2,6 @@
 layout: post
 title: Malayalam Computing
 tags: [malayalam, conference, SMC]
-comments: true
 ---
 
 During [MEC.Conf](https://conf.mec.dev/), we had one of of our keynotes by Santhosh Thottingal,

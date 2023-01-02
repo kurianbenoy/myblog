@@ -1,9 +1,14 @@
 ---
-layout: post
-title: Notable quotes from Mind master - Viswanathan Anand 
+aliases:
+- /books/2020/08/09/Mindmaster
 author: kurianbenoy
-tags: [books]
+categories:
+- books
+date: '2020-08-09'
+layout: post
 readtime: true
+title: Notable quotes from Mind master - Viswanathan Anand
+
 ---
 
 Hello all, I am back with a few notable quotes from Mind Master by Viswanathan Anand. I am not a chess expert and know some of the basic moves. I recently picked up chess, after seeing Pranav Shridhar and Joel

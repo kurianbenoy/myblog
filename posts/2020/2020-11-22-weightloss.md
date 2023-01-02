@@ -1,6 +1,10 @@
 ---
+aliases:
+- /2020/11/22/weightloss
+date: '2020-11-22'
+layout: post
 title: How I lost almost 4Kgs in 3 weeks - my wegiht loss Journey
-type: post
+
 ---
 
 Haven't you all seen advertisements which say you can lose 6 kilograms per week. Today I am going to share

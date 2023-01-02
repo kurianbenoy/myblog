@@ -1,8 +1,14 @@
 ---
-title: Pycon India 2020 Highlights
-type: post
-tags: [conference, coding]
+aliases:
+- /coding/conference/2020/10/05/Pycon_India
+categories:
+- conference
+- coding
+date: '2020-10-05'
+layout: post
 readtime: true
+title: Pycon India 2020 Highlights
+
 ---
 
 Pycon India is one of the conferences which I like to attend every year. The reason is something deeply emotional because Python is the language which hooked me into programming, my first major talk was in Pycon India 2019 and I enjoy the pycon vibe every year. This was my third year attending Pycon and this time it was fully remote.

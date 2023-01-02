@@ -1,7 +1,11 @@
 ---
+aliases:
+- /2020/01/08/Aws-Reinvent_recap
+author: kurianbenoy
+date: '2020-01-08'
 layout: post
 title: Attending an Aws meetup
-author: kurianbenoy
+
 ---
 
 I recently attended AWS re: Invent reCap organised by AWS User Group Kochi. One of the exciting announcements during the program was about AWS Inferentia chips which is being developed by Annapurna Labs(which unlike it's name is an Israel based company).

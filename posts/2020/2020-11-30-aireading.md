@@ -1,6 +1,10 @@
 ---
+aliases:
+- /2020/11/30/aireading
+date: '2020-11-30'
+layout: post
 title: Introducing Reading like AI
-type: post
+
 ---
 
 Reading like AI is a python package inspired from the below meme:

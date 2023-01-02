@@ -1,9 +1,15 @@
 ---
-layout: post
-title: Bengali AI Competition Experience
+aliases:
+- /coding/kaggle/2020/03/21/BengaliAI_experience
 author: kurianbenoy
-tags: [coding, kaggle]
+categories:
+- coding
+- kaggle
+date: '2020-03-21'
+layout: post
 readtime: true
+title: Bengali AI Competition Experience
+
 ---
 
 Thanks to Kaggle and Bengali AI for organising this competition. I would like to congratulate all the winners of this competition.
