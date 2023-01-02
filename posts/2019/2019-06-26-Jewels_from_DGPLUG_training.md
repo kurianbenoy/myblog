@@ -1,8 +1,19 @@
+---
+title: Jewels from DGPLUG training
+type: post
+tags: [Conference, python, linux, Life, dgplug]
+author: Kurian Benoy
+---
+
 Dgplug conduct awesome FOSS training every year. I have decided to participate
 this years training. The following are some of the questions which have been
 answered during training by experts here.
 
-**mbuf, what are the basics Industry expect from a Bachelors student?**
+Question:
+
+ **mbuf, what are the basics Industry expect from a Bachelors student?**
+
+Answer:
 
 ```
 <mbuf> django_master, I cannot answer for the industry, but, there are two schools of thought that you should be familiar with
@@ -33,8 +44,11 @@ answered during training by experts here.
 
 ```
 
+Question:
+
 **I get stuck when solving harder problems and bugs that take about 4-5 days effort. How to show perseverance when solving bigger problems and when mentors continuosly get back to you with comments?**
 
+Answer:
 
 ```
 <mbuf> django_master, this is where the communication guidelines come into play
@@ -51,10 +65,13 @@ answered during training by experts here.
 <mbuf> django_master, there is a reason why engineers are paid well :) (to solve hard problems)
 ```
 
+Question:
+
 **Have you given any talk proposal for Pycon India?**
 
-```
+Answer:
 
+```
 <sayan> django_master: nope!
 
 
@@ -92,7 +109,11 @@ answered during training by experts here.
 ```
 
 
+Question:
+
 **Everyone here talks about importance of blogging. How frequently we should blog and on what topics?**
+
+Answer:
 
 ```
 <mbuf> django_master, Stephen King (the writer) says the ratio of reading to writing is 10:1

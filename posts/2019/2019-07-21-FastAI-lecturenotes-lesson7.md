@@ -1,7 +1,10 @@
 ---
-layout: post
-title: FastAI lecture7 review notes
+title: FastAI Lesson-7 Notes
+type: post
+tags: [fastai, course]
+author: Kurian Benoy
 ---
+
 ## Lesson7
 
 #### Resnets
@@ -19,7 +22,7 @@ he said
 
 His theory was 56 layers worth of convolutions in that has to be at least good as the 20 layer version because it could always just set conv2 and conv1 to a bunch of 0 weights for everything except for the first 20 layers because the X (i.e. the input) could just go straight through. So this thing here is (as you see) called an identity connection. It's the identity function - nothing happens at all. It's also known as a skip connection.
 
-![alt text](resnet.jpg)
+![alt text](/posts/images/resnet.png)
 
 
 #### Densenets

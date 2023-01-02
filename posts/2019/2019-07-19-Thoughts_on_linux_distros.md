@@ -1,3 +1,10 @@
+---
+title: Thoughts on linux distros
+type: post
+tags: [linux, dgplug]
+author: Kurian Benoy
+---
+
 Linux comes in different variants based on your taste, interest and system design choices. Some of the most notable
 ones are: Ubuntu, Fedora, Redhat, Debian, Arch Linux. There are more than 1000of variants of linux. One of my college seniors
 ,[Sarath Lakshman](https://www.linkedin.com/in/sarathlakshman/) made a linux variant called Slynux. You can choose whichever linux variant as you want to be your

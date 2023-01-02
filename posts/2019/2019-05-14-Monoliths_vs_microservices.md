@@ -1,3 +1,10 @@
+---
+title: Monoliths vs Microservices
+type: post
+tags: [conference]
+author: KurianBenoy
+---
+
 In this article, I will be talking about monoliths and microservice system
 architecture. Recently [Hrishikesh Bhaskaran](https://twitter.com/_stultus) gave
 a talk on this topic at Facebook F8 meetup. Th.is talk inspired me and changed my

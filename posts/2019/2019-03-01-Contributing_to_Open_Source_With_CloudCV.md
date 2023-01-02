@@ -1,4 +1,11 @@
-## Contributing to OpenSource With CloudCV
+---
+title: Contributing to OpenSource With CloudCV
+type: post
+tags: [opensource, experience]
+author: KurianBenoy
+---
+
+![](/posts/images/cloudcv.png)
 
 So here I am going to describe about experience contributing CloudCV organisation. I started to know about this organisation because of my friend Adarsh S who is a perivious GSoC winner, with CloudCV.
 CloudCV has mainly three Projects ie:
