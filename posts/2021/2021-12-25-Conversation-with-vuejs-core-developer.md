@@ -15,6 +15,8 @@ title: Conversation with Vue.js Core Developer Ben Hong
 
 ---
 
+![](/posts/images/ben.jpg)
+
 **1. Will class based components supported in Vue3? What is support of it?**
 
 There are already support for Options API and Composition API in Vue.js. The

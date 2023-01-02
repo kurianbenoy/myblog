@@ -20,6 +20,8 @@ title: Understanding get_image_files in fastai
 
 ---
 
+![](/posts/images/fastai.png)
+
 In **fastai library** we use Datablocks like the below example for loading datasets, and to train models.
 The below code is DataBlock, which is used to load a dataset of various types of bears to split
 into train and validation datasets along and to resize images to size 128*128. For a detailed explanation, check on From Data to DataLoaders section in [Chapter 2 of Fastbook](From Data to DataLoaders).
