@@ -1,9 +1,13 @@
 ---
+aliases:
+- /myself/2019/08/02/SeminarTopics
+categories:
+- myself
+date: '2019-08-02'
 layout: post
-title: Seminar ideas
-tags: ['myself']
----
+title: Seminar ideas for project
 
+---
 
 We are currently working in projects and works with greater impact:
 - CNN(can even beat a human in Imagenet challenge)

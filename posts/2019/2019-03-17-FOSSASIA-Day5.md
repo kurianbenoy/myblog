@@ -1,4 +1,15 @@
-# Day5
+---
+aliases:
+- /conference/fossasia/2019/03/17/FOSSASIA-Day5
+author: Kurian Benoy
+categories:
+- conference
+- fossasia
+date: '2019-03-17'
+layout: post
+title: FOSSASIA Summit - Day 5
+
+---
 
 For the last 4 days, I have never arrived in time for conference(the earliest I
 reached was at 9:30 AM. Today was nothing different except I was also having an

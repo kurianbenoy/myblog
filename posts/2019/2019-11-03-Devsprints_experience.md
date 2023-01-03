@@ -1,10 +1,15 @@
 ---
-title: Devsprints Experience
+aliases:
+- /beginner/community/fossmec/2019/11/03/Devsprints_experience
 author: Kurian Benoy
-tags: ['beginner', 'community']
+categories:
+- beginner
+- community
+- fossmec
+date: '2019-11-03'
+title: Devsprints Experience
+
 ---
-
-
 
 Devsprints is an event unlike in Hackathon, you start working in established projects which are usally FOSS/Open source.
 @MEC our Devsprints was planned to be a one day event on November 3, even though we would have loved to make the event

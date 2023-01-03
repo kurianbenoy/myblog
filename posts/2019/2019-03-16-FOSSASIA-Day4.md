@@ -1,4 +1,15 @@
-## Day4
+---
+aliases:
+- /conference/fossasia/2019/03/16/FOSSASIA-Day4
+author: Kurian Benoy
+categories:
+- conference
+- fossasia
+date: '2019-03-16'
+layout: post
+title: FOSSASIA Summit - Day 4
+
+---
 
 This was a day where things were getting a bit serious. I was in Hackathon room
 for almost the entire day. Being a lone hacker, you sometimes gets to a point

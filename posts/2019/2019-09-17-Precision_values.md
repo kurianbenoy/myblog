@@ -1,7 +1,14 @@
 ---
-title: Float/decimal points precision in C++ and python3
+aliases:
+- /c/python/2019/09/17/Precision_values
 author: Kurian Benoy
-type: post
+categories:
+- python
+- c
+date: '2019-09-17'
+layout: post
+title: Float/decimal points precision in C++ and python3
+
 ---
 
 Manipulating and printing outut format with specific no of digits in precision

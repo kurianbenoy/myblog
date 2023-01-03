@@ -1,13 +1,16 @@
 ---
-title: Emacs vs VIM war
+aliases:
+- /Emacsvim/war/2019/07/23/EmacsvsVim_war
 author: Kurian Benoy
-type: post
-url: emacsvsvim/
-tags: 
+categories:
 - war
 - Emacsvim
----
+date: '2019-07-23'
+layout: post
+title: Emacs vs VIM war
+url: emacsvsvim/
 
+---
 
 Emacs and vim are arguably among the best text editors of all time. You may occasionally find war tweets like this:
 

@@ -1,7 +1,14 @@
 ---
+aliases:
+- /SMC/conference/malayalam/2019/07/30/Malayalam_computing
+categories:
+- malayalam
+- conference
+- SMC
+date: '2019-07-30'
 layout: post
-title: Malayalam Computing
-tags: [malayalam, conference, SMC]
+title: Malayalam Computing(Highlight from talk by Santhosh Thottingal)
+
 ---
 
 During [MEC.Conf](https://conf.mec.dev/), we had one of of our keynotes by Santhosh Thottingal,
@@ -35,7 +42,7 @@ You can even program just with `Malayalam`. *Did you folks know Python3 was reva
 18
 ```
 
-![alt text](/img/withsanthosh.jpg "Logo Title Text 1")
+![alt text](/posts/images/withsanthosh.jpg "Logo Title Text 1")
 
 He told about some important Malayalam projects like [Morphological Analyser](https://github.com/smc/mlmorph),
 [sentence predictor](https://gitlab.com/smc/mlpredict).

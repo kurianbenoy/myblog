@@ -1,12 +1,17 @@
 ---
-title: Research paper Summary
+aliases:
+- /Deep learning/Text To Speech Synthesis/audio/2019/09/11/MultispeakerTTS_summary
 author: Kurian Benoy
-type: post
-tags:
+categories:
 - audio
 - Deep learning
 - Text To Speech Synthesis
+date: '2019-09-11'
+layout: post
+title: Research paper Summary
+
 ---
+
 ## Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis
 
 

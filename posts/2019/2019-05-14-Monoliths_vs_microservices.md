@@ -1,8 +1,13 @@
 ---
-title: Monoliths vs Microservices
-type: post
-tags: [conference]
+aliases:
+- /conference/2019/05/14/Monoliths_vs_microservices
 author: KurianBenoy
+categories:
+- conference
+date: '2019-05-14'
+layout: post
+title: Monoliths vs Microservices
+
 ---
 
 In this article, I will be talking about monoliths and microservice system

@@ -1,4 +1,15 @@
-# Day3
+---
+aliases:
+- /conference/fossasia/2019/03/15/FOSSASIA-Day3
+author: Kurian Benoy
+categories:
+- conference
+- fossasia
+date: '2019-03-15'
+layout: post
+title: FOSSASIA Summit - Day 3
+
+---
 
 The day started off with Workshops from IBM. The first session was about Using
 Kuberneetes and KNative. The workshop was lead by `Sai Vennam, IBM Engineer in

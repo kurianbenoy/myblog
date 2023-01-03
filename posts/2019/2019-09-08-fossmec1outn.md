@@ -1,9 +1,14 @@
 ---
-title: FOSSMEC Report(1/n)
+aliases:
+- /fossmec/opensource/2019/09/08/fossmec1outn
 author: Kurian Benoy
-type: post
-tags:
-- FOSSMEC
+categories:
+- fossmec
+- opensource
+date: '2019-09-08'
+layout: post
+title: FOSSMEC Report(1/n)
+
 ---
 
 So in a land alien to me, I recieved this news about being made a Chairman of FOSSMEC for the coming academeic year. Let me

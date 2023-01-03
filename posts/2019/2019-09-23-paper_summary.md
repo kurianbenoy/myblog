@@ -1,11 +1,14 @@
 ---
-title: Speaking style adaption in text-to-speech synthesis usng sequence-to-sequence models with attention
-type: post
-tags:
+aliases:
+- /TTS/Tactron/2019/09/23/paper_summary
+categories:
 - TTS
-- Tactron 
-- Lombard style
-- Adaption
+- Tactron
+date: '2019-09-23'
+layout: post
+title: Speaking style adaption in text-to-speech synthesis usng sequence-to-sequence
+  models with attention
+
 ---
 
 Please note: I am writing this research paper summaries in mind to build an advanced(State of the art) Text-to speech system for Malayalam, as a FOSS project for SMC.

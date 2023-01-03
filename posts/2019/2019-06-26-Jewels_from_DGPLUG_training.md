@@ -1,8 +1,17 @@
 ---
-title: Jewels from DGPLUG training
-type: post
-tags: [Conference, python, linux, Life, dgplug]
+aliases:
+- /Conference/Life/dgplug/linux/python/2019/06/26/Jewels_from_DGPLUG_training
 author: Kurian Benoy
+categories:
+- Conference
+- python
+- linux
+- Life
+- dgplug
+date: '2019-06-26'
+layout: post
+title: Jewels from DGPLUG training
+
 ---
 
 Dgplug conduct awesome FOSS training every year. I have decided to participate

@@ -1,10 +1,16 @@
 ---
-title: Brownie points on Single Shot Multibox Detector
-type: post
-tags: [python, linux, Deep Learning]
+aliases:
+- /Deep Learning/linux/python/2019/07/14/Brownie_points_on_SSD
 author: Kurian Benoy
----
+categories:
+- python
+- linux
+- Deep Learning
+date: '2019-07-14'
+layout: post
+title: Brownie points on Single Shot Multibox Detector
 
+---
 
 In this article, I am going to talk about Single Shot Multibox Detector(SSD) which one of the algorithms which does object detection. SSD is known for detecting objects in real time faster compared to other algorithms.
 

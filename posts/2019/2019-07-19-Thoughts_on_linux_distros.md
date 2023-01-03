@@ -1,8 +1,14 @@
 ---
-title: Thoughts on linux distros
-type: post
-tags: [linux, dgplug]
+aliases:
+- /dgplug/linux/2019/07/19/Thoughts_on_linux_distros
 author: Kurian Benoy
+categories:
+- linux
+- dgplug
+date: '2019-07-19'
+layout: post
+title: Thoughts on linux distros
+
 ---
 
 Linux comes in different variants based on your taste, interest and system design choices. Some of the most notable

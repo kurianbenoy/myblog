@@ -1,4 +1,15 @@
-## Day2
+---
+aliases:
+- /conference/fossasia/2019/03/14/FOSSASIA-Day2
+author: Kurian Benoy
+categories:
+- conference
+- fossasia
+date: '2019-03-14'
+layout: post
+title: FOSSASIA Summit - Day 2
+
+---
 
 Today was when the 4 day long FOSSASIA International Conference started. We woke
 up a bit late, due to some time difference. The first talk which I attended was
@@ -14,15 +25,9 @@ he gives a lot of strong comments to patches in VLC, just like Linus Torvalds is
 famous for. Yet here he is sitting just besides me. I asked for a quick selfie
 and was too afraid even to be sitting besides him.
 
-<img src="../images/interview_remi.jpg" alt="Weird moment" style="float: left;
-     margin-right: 10px;" /> I told about the interview thing and told I will
-     come when he is free. I ran virtually away from Remi, during Lunch break.
-     There were amazing sessions about how Hardware can be used from Mitch and
-     Bunni. At next we had a panel discussion about
-     "Buisness,Government,Science-What Opportunities Does "Open" Bring to
-     society" composing of an amazing panel with V Srinivasta, Hong Pong, Graham
-     Williams, Carlsen, Bunnie and our own FOSSASIA Fellows Mario Behling and
-     Hong Pong. I explored the Exhibition hall in the evening and attended
-     another panel discussion on "Is future of FOSS Bright?!" lead by Michael
-     Downey.
-
+I told about the interview thing and told I will come when he is free. I ran virtually away from Remi, during Lunch break.
+There were amazing sessions about how Hardware can be used from Mitch and
+Bunni. At next we had a panel discussion about "Buisness,Government,Science-What Opportunities Does "Open" Bring to
+society" composing of an amazing panel with V Srinivasta, Hong Pong, Graham Williams, Carlsen, Bunnie and our own FOSSASIA Fellows Mario Behling and
+Hong Pong. I explored the Exhibition hall in the evening and attended another panel discussion on "Is future of FOSS Bright?!" lead by Michael
+Downey.

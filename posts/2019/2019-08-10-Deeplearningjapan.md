@@ -1,12 +1,16 @@
 ---
-title: Deep Learning for Japanese Classical Literature-Paper Review
+aliases:
+- /Deep learning/ML/academic/research paper summary/2019/08/10/Deeplearningjapan
 author: Kurian Benoy
-type : post
-tags:
+categories:
 - research paper summary
 - academic
 - Deep learning
 - ML
+date: '2019-08-10'
+layout: post
+title: Deep Learning for Japanese Classical Literature-Paper Review
+
 ---
 
 This blogpost is a short summary of the [research paper](https://arxiv.org/abs/1812.01718) authored by
@@ -24,7 +28,7 @@ Kuzushiji Recognition.
 
 ## Introduction
 
-![Japan This place was so cool!](/img/japan.jpg "Philadelphia's Magic Gardens")
+![Japan This place was so cool!](/posts/images/japan.jpg "Philadelphia's Magic Gardens")
 
 Historically, Japan and it's culture had been isolated from the west for a long period of time. Untill the Meiji
 restoration in 1868, when a 15 year old emperor brought unity to whole of Japan which was earlier broken down into
@@ -39,7 +43,7 @@ With this research paper, three easy to use pre-processed datasets has been rele
 help in Recognising Kuzhushiji, domain transfer of contents from unseen Kuzhushiji Kanji to Modern Kanji(classical
 Japanese literature). Also the baseline classification results for the same has been mentioned in this paper.
 
-![Books with Kuzushiji text](/img/oldbook.png)
+![](/posts/images/oldbook.png)
 
 ## Kuzhushiji Dataset
 
@@ -105,7 +109,7 @@ get state of the art results for this competition.The current state of the art
 model which gives a better performance is **Resnet networks being
 ensembled over Capsule networks**.
 
-![Philadelphia's Magic Gardens. This place was so cool!](/img/paperbench.png "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](/posts/images/papergithub.png)
 
 According to paper we get 97.33% accuracy for dataset on using PreActResnet18 + manifold mixup and 98.9% accuracy for
 **Resnet Networks ensembed over Capsule Networks**. Let's take a closer look at both this architectures:
@@ -138,7 +142,7 @@ versions of a given Kuzushiji-Kanji input, in both pixel and stroke-based format
 (ie the Japanese Language) in both pixel and stroke format. This is a various interesting application to bring life to an 
 almost extinct language with usage of Machine Learning.
 
-![Domain transfer architecture](/img/paperdomainarch.png "Philadelphia's Magic Gardens")
+![Domain transfer architecture](/posts/images/paperdomainarch.png)
 
 ### Architecture of Domain Transfer
 

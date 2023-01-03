@@ -1,10 +1,14 @@
 ---
-title: First thoughts on Swift
-type: post
+aliases:
+- /Deep Learning/Swift/2019/12/19/swift4tensorflowintro
 author: Kurian Benoy
-tags: 
-- Swift 
+categories:
+- Swift
 - Deep Learning
+date: '2019-12-19'
+layout: post
+title: First thoughts on Swift
+
 ---
 
 According to Chris Lattner, swift is promised as an infinetely hackable language. I recently binge watched two lessons of FastAI part2 which covered about new language for Deep Learning. 
@@ -435,11 +439,8 @@ plt.show()
 
 ```
 
-<img src="Swift4TF___iris_dataset_files/Swift4TF___iris_dataset_32_0.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
      
-![png](Swift4TF___iris_dataset_files/Swift4TF___iris_dataset_32_0.png)
+![png](/posts/images/Swift4TF___iris_dataset_32_0.png)
 
 
 

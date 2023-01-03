@@ -1,7 +1,13 @@
 ---
-title: Pinch of old project
+aliases:
+- /Image classifier/Medium/2019/09/29/projectreview
 author: Kurian Benoy
-tags: ['Image classifier', 'Medium']
+categories:
+- Image classifier
+- Medium
+date: '2019-09-29'
+title: Pinch of old project
+
 ---
 
 So our projects aim was to create an app which was to:

@@ -1,11 +1,15 @@
 ---
-title: What is the difference between Open stack and AWS EC2?
+aliases:
+- /AWS/Openstack/containers/2019/09/03/What_is_Openstack
 author: Kurian Benoy
-type: post
-tags: 
+categories:
 - AWS
 - Openstack
 - containers
+date: '2019-09-03'
+layout: post
+title: What is the difference between Open stack and AWS EC2?
+
 ---
 
 Cloud computing is one of the buzz words of today. Today there are a lot of cloud operators in the market like Amazon, IBM, Google Cloud Platform and other associate technologies of each company like Amazon has EC2, ECS, CloudWatch, Lamda server and much more.

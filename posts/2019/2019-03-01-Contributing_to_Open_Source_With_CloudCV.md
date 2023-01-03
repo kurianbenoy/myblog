@@ -1,8 +1,14 @@
 ---
-title: Contributing to OpenSource With CloudCV
-type: post
-tags: [opensource, experience]
+aliases:
+- /experience/opensource/2019/03/01/Contributing_to_Open_Source_With_CloudCV
 author: KurianBenoy
+categories:
+- opensource
+- experience
+date: '2019-03-01'
+layout: post
+title: Contributing to OpenSource With CloudCV
+
 ---
 
 ![](/posts/images/cloudcv.png)

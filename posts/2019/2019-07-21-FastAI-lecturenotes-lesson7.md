@@ -1,8 +1,14 @@
 ---
-title: FastAI Lesson-7 Notes
-type: post
-tags: [fastai, course]
+aliases:
+- /course/fastai/2019/07/21/FastAI-lecturenotes-lesson7
 author: Kurian Benoy
+categories:
+- fastai
+- course
+date: '2019-07-21'
+layout: post
+title: FastAI Lesson-7 Notes
+
 ---
 
 ## Lesson7

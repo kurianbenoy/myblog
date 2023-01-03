@@ -1,3 +1,16 @@
+---
+aliases:
+- /conference/fossasia/2019/03/13/FOSSASIA-Day1
+author: Kurian Benoy
+categories:
+- conference
+- fossasia
+date: '2019-03-13'
+layout: post
+title: FOSSASIA Summit - Day 1
+
+---
+
 I arrived at Changi Airport, Singapore at morning at 7 AM. I was lucky to be catered by my
 father's friend. Uncle also accompanied with me to check-in RuckSackin, which
 was the FOSSASIA Hostel at about 3 PM. I arrived at **LLI**(Life Long Learning

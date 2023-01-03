@@ -1,11 +1,15 @@
 ---
-title: Literature review for my project
-type: post
-tags:
+aliases:
+- /Audio/Final Year projects/TTS/Wavenet/2019/09/21/Paper_summaries
+categories:
 - Final Year projects
 - TTS
 - Wavenet
 - Audio
+date: '2019-09-21'
+layout: post
+title: Literature review for my project
+
 ---
 
 ## Speaking style adaption in text-to-speech synthesis usng sequence-to-sequence models with attention

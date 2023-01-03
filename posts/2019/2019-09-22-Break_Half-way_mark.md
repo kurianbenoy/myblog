@@ -1,9 +1,13 @@
 ---
+aliases:
+- /kaggle/kernels/2019/09/22/Break_Half-way_mark
+categories:
+- kaggle
+- kernels
+date: '2019-09-22'
+layout: post
 title: Break the Half-way mark(0.52 LB score)
-type: post
-tags: 
-- Kaggle
-- Kernels
+
 ---
 
 Data Science Network(DSNet) organised a Kaggle competition as part of Kaggle days workshop. This competition will be a
