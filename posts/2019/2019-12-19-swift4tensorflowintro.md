@@ -8,7 +8,6 @@ categories:
 date: '2019-12-19'
 layout: post
 title: First thoughts on Swift
-
 ---
 
 According to Chris Lattner, swift is promised as an infinetely hackable language. I recently binge watched two lessons of FastAI part2 which covered about new language for Deep Learning. 
