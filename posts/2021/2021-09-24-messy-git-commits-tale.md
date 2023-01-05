@@ -10,6 +10,8 @@ title: Messy git commit relation with master and develop branches
 
 ---
 
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--l82BOzKA--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/rixan4h4z8y94eq89som.png)
+
 In github, there are usually dev and main branches. Usually developers advocate protecting branch features, 
 to avoid any of user to not merge directly without commiting.
 

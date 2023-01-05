@@ -5,7 +5,6 @@ author: kurianbenoy
 categories:
 - tamil
 - life
-- travel
 date: '2021-11-11'
 layout: post
 title: Learning Tamil and weird things in Malayalam
@@ -13,6 +12,8 @@ title: Learning Tamil and weird things in Malayalam
 ---
 
 Thanks to [Sankar M](https://www.linkedin.com/in/sankara-raman-m-a516b295/), I have been learning a bit of Tamil.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Evolution_of_Vatteluttu_and_Tamil_scripts.gif/350px-Evolution_of_Vatteluttu_and_Tamil_scripts.gif)
 
 A few words I learned so far are:
 
