@@ -3,12 +3,14 @@ aliases:
 - /book/2019/06/22/Quotes_From_The_Alchemist
 author: Kurian Benoy
 categories:
-- book
+- books
 date: '2019-06-22'
 layout: post
 title: Quotes from the book Alchemist
 
 ---
+
+![Singaporean travels](/posts/images/fossasia_summit_2019/gardens_1.jpg)
 
 The Alchemist is written by the famous Brazilian lyricist and novelist Paulo
 Coelho. I recently finished reading his book and am sharing some of amazing

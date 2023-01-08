@@ -11,6 +11,8 @@ title: FOSSASIA Summit - Day 1
 
 ---
 
+![Indoors of Changi Airport](/posts/images/fossasia_summit_2019/changi_airport_indoors.jpg)
+
 I arrived at Changi Airport, Singapore at morning at 7 AM. I was lucky to be catered by my
 father's friend. Uncle also accompanied with me to check-in RuckSackin, which
 was the FOSSASIA Hostel at about 3 PM. I arrived at **LLI**(Life Long Learning
@@ -24,6 +26,8 @@ were from India like Jogendra, IIT Pune batch, Akshat, Divyanchal and much more.
 We explored Marina Bay and had a walk through the Helix Bridge. I got to talk to
 a lot of speakers there and had a wonderful experience there having food from
 Hawkers street in Marina bay.
+
+![Rucksackin hotel](/posts/images/fossasia_summit_2019/rucksackin_hotel.jpg)
 
 After the dinner, I travelled back with Chathu and his friend who guided me to
 return to Paya Lebar MRT. At about 7:30 PM, I returned to LLI and helped
