@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2021/11/11/Learning_Tamil
-author: kurianbenoy
+author: Kurian Benoy
 categories:
 - tamil
 - life

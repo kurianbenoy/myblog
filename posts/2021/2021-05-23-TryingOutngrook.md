@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2021/05/23/TryingOutngrook
-author: kurianbenoy
+author: Kurian Benoy
 date: '2021-05-23'
 layout: post
 readtime: true

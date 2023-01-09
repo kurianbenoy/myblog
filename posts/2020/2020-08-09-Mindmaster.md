@@ -1,7 +1,7 @@
 ---
 aliases:
 - /books/2020/08/09/Mindmaster
-author: kurianbenoy
+author: Kurian Benoy
 categories:
 - books
 date: '2020-08-09'

@@ -1,7 +1,7 @@
 ---
 aliases:
 - /coding/kaggle/2020/03/21/BengaliAI_experience
-author: kurianbenoy
+author: Kurian Benoy
 categories:
 - coding
 - kaggle

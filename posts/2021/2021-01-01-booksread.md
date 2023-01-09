@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2021/01/01/booksread
-author: kurianbenoy
+author: Kurian Benoy
 categories:
 - books
 date: '2021-01-01'

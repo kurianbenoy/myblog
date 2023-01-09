@@ -42,7 +42,7 @@ You can even program just with `Malayalam`. *Did you folks know Python3 was reva
 18
 ```
 
-![alt text](/posts/images/withsanthosh.jpg "Logo Title Text 1")
+![Picture along with Santhosh Thottingal and Kavya Manohar](/posts/images/withsanthosh.jpg "Logo Title Text 1")
 
 He told about some important Malayalam projects like [Morphological Analyser](https://github.com/smc/mlmorph),
 [sentence predictor](https://gitlab.com/smc/mlpredict).
@@ -60,9 +60,9 @@ definite in nature. Instead of predicting nature in Machine Learning.
 Do checkout Santhosh Thottingal sir being interviewed by Sreeram Venkitesh in the 
 below link:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tr6Wxiusr54/0.jpg)](https://www.youtube.com/watch?v=Tr6Wxiusr54)
+[![Interview of Santhosh by  Sreeram Venkitesh ](https://img.youtube.com/vi/Tr6Wxiusr54/0.jpg)](https://www.youtube.com/watch?v=Tr6Wxiusr54)
 
-<div id="disqus_thread"></div>
+<!-- <div id="disqus_thread"></div>
 <script>
 
 /**
@@ -81,5 +81,5 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
 

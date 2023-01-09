@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2020/01/08/Aws-Reinvent_recap
-author: kurianbenoy
+author: Kurian Benoy
 date: '2020-01-08'
 layout: post
 title: Attending an Aws meetup
