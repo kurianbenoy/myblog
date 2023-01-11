@@ -1,15 +1,33 @@
 ---
 title: "Kurian Benoy"
+image: /posts/images/fossasia_summit_2019/my_lighting_talk.jpg
 about:
   template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin 
+      url: "https://linkedin.com/in/kurianbenoy"
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/kurianbenoy2"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/kurianbenoy"
+    - text: Email
+      url: "mailto:kurian.bkk@gmail.com"
+    - text: Blog
+      url: "blog.html"
 page-layout: full
-comments: false
 ---
 
+## About Me
 
-## Bio
+Hi, I am a Machine Learning Engineer working in fast-paced startup based in Singapore. I have been coding professionally well over two
+years in buisness. I have contributed to various open source organizations like Keras, DVC, HuggingFace, fast.ai, Swathanthra Malayalam Computing,
+CloudCV etc. I am Kaggle 2x expert and have won best notebook award in a Kaggle competion and got shout out from Jeremy. I like 
+to speak and interact with developer community. I have given talk as expert in competence of Machine Learning and Python-core in Pycon India,
+a conference attended 1000 people.
 
-Hi, I'm Kurian Benoy, a ML Engineer who is working in sentient.io. I have been building impactful data science projects
-over the past few years.
-
+I am going to follow an open to contact policy anyone, so feel free to reach me anytime. I am quite easy to reach out via mail, yet feel free to connect
+or contact with me in any of social media platforms.
  
