@@ -10,7 +10,7 @@
 <meta name="author" content="Kurian Benoy">
 <meta name="dcterms.date" content="2022-12-18">
 
-<title>kurianbenoy - Welcome To My Blog</title>
+<title>Kurian Benoy - Welcome To My Quarto Website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">kurianbenoy</span>
+    <span class="navbar-title">Kurian Benoy</span>
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -83,10 +83,6 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html">
- <span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../blog.html">
  <span class="menu-text">Blog</span></a>
   </li>  
@@ -94,13 +90,22 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../talks.html">
  <span class="menu-text">Talks</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://til.kurianbenoy.com/">
+ <span class="menu-text">TIL</span></a>
+  </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/kurianbenoy"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://linkedin.com/in/kurianbenoy"><i class="bi bi-linkedin" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/kurianbenoy2"><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/kurianbenoy"><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
@@ -119,7 +124,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Welcome To My Blog</h1>
+      <h1 class="title">Welcome To My Quarto Website</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">news</div>
               </div>
@@ -158,9 +163,16 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
 <p><img src="thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>This is my first post in a Quarto blog. Welcome everyone to my new blog.</p>
+<p>I have been wanting for a long time to unify <a href="https://github.com/kurianbenoy/ml-blog">my existing Machine learning blog</a> based on fast-pages together with <a href="https://github.com/kurianbenoy/kurianbenoy.github.io/tree/4b5246ada3190dbdd73dc96d266a5ade7ef078a3">my main blog website</a>.</p>
+<p>The unification process is a bit challenging:</p>
+<ol type="1">
+<li>All my previous blog post in main website was written with <a href="https://github.com/daattali/beautiful-jekyll">beautiful jekyll</a> format using markdown.</li>
+<li>Need support for jupyter-notebook, which beautiful jekyll doesn’t support</li>
+</ol>
+<p>This is where Quarto comes as a saviour. It has wide support for various formats like markdown, jupyter notebook, rmarkdown. The goal, JJ and team is looking to have a single source of publication is really interesting. I was already familiar with nbdev with few of the projects I previously made.</p>
+<p>I converted all of my existing blog post in markdown to fastpages markdown format. Then I leveraged <a href="https://nbdev.fast.ai/migrating.html">nbdev 1 migration scripts</a> to move it to quarto.</p>
 
 
 

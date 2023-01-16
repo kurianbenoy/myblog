@@ -1,455 +1,451 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kurianbenoy.github.io/myblog/about.html</loc>
-    <lastmod>2023-01-11T18:33:09.600Z</lastmod>
-  </url>
-  <url>
     <loc>https://kurianbenoy.github.io/myblog/talks.html</loc>
-    <lastmod>2023-01-11T18:33:10.180Z</lastmod>
+    <lastmod>2023-01-16T04:28:36.708Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/blog.html</loc>
-    <lastmod>2023-01-11T18:33:13.390Z</lastmod>
+    <lastmod>2023-01-16T04:28:38.728Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/index.html</loc>
-    <lastmod>2023-01-11T18:33:13.800Z</lastmod>
+    <lastmod>2023-01-16T04:28:39.048Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019-08-14-aimal.html</loc>
-    <lastmod>2023-01-11T18:33:14.220Z</lastmod>
+    <lastmod>2023-01-16T04:28:39.378Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-03-13-hfenml-translate.html</loc>
-    <lastmod>2023-01-11T18:33:15.080Z</lastmod>
+    <lastmod>2023-01-16T04:28:39.898Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/welcome/index.html</loc>
-    <lastmod>2023-01-11T18:33:15.550Z</lastmod>
+    <lastmod>2023-01-16T04:28:40.168Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-02-15-learningvue.html</loc>
-    <lastmod>2023-01-11T18:33:16.080Z</lastmod>
+    <lastmod>2023-01-16T04:28:40.518Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-01-01-booksread.html</loc>
-    <lastmod>2023-01-11T18:33:16.570Z</lastmod>
+    <lastmod>2023-01-16T04:28:40.858Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-07-15-Resize-images.html</loc>
-    <lastmod>2023-01-11T18:33:17.050Z</lastmod>
+    <lastmod>2023-01-16T04:28:41.148Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-04-07-statictyping.html</loc>
-    <lastmod>2023-01-11T18:33:17.600Z</lastmod>
+    <lastmod>2023-01-16T04:28:41.468Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-03-06-hostwebsite.html</loc>
-    <lastmod>2023-01-11T18:33:18.270Z</lastmod>
+    <lastmod>2023-01-16T04:28:41.828Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-12-25-Conversation-with-vuejs-core-developer.html</loc>
-    <lastmod>2023-01-11T18:33:18.710Z</lastmod>
+    <lastmod>2023-01-16T04:28:42.128Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-08-25-fastgroup-9.html</loc>
-    <lastmod>2023-01-11T18:33:19.190Z</lastmod>
+    <lastmod>2023-01-16T04:28:42.448Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-03-01-WFH6.html</loc>
-    <lastmod>2023-01-11T18:33:19.650Z</lastmod>
+    <lastmod>2023-01-16T04:28:42.788Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-07-04-CORS.html</loc>
-    <lastmod>2023-01-11T18:33:20.090Z</lastmod>
+    <lastmod>2023-01-16T04:28:43.288Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-03-30-shutdown-routine.html</loc>
-    <lastmod>2023-01-11T18:33:20.420Z</lastmod>
+    <lastmod>2023-01-16T04:28:43.708Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-06-20-TinkerHub_ml.html</loc>
-    <lastmod>2023-01-11T18:33:20.720Z</lastmod>
+    <lastmod>2023-01-16T04:28:43.988Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-08-12-fastgroup-8.html</loc>
-    <lastmod>2023-01-11T18:33:21.190Z</lastmod>
+    <lastmod>2023-01-16T04:28:44.418Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-04-18-financial_lessons.html</loc>
-    <lastmod>2023-01-11T18:33:21.600Z</lastmod>
+    <lastmod>2023-01-16T04:28:44.698Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-03-21-qualities_software_developers.html</loc>
-    <lastmod>2023-01-11T18:33:21.970Z</lastmod>
+    <lastmod>2023-01-16T04:28:44.998Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-07-28-fastgroup-7.html</loc>
-    <lastmod>2023-01-11T18:33:22.320Z</lastmod>
+    <lastmod>2023-01-16T04:28:45.318Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-05-17-notes-js-asynchronousity.html</loc>
-    <lastmod>2023-01-11T18:33:22.670Z</lastmod>
+    <lastmod>2023-01-16T04:28:45.638Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-04-24-Few-Vue-Concepts.html</loc>
-    <lastmod>2023-01-11T18:33:22.970Z</lastmod>
+    <lastmod>2023-01-16T04:28:45.918Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-07-14-fastgroup-5.html</loc>
-    <lastmod>2023-01-11T18:33:23.280Z</lastmod>
+    <lastmod>2023-01-16T04:28:46.228Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-07-25-jspackagessize.html</loc>
-    <lastmod>2023-01-11T18:33:23.570Z</lastmod>
+    <lastmod>2023-01-16T04:28:46.508Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-05-11-untitled.html</loc>
-    <lastmod>2023-01-11T18:33:23.850Z</lastmod>
+    <lastmod>2023-01-16T04:28:46.768Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-09-24-messy-git-commits-tale.html</loc>
-    <lastmod>2023-01-11T18:33:24.170Z</lastmod>
+    <lastmod>2023-01-16T04:28:47.048Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-04-11-JavascriptPromises.html</loc>
-    <lastmod>2023-01-11T18:33:24.560Z</lastmod>
+    <lastmod>2023-01-16T04:28:47.428Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-06-30-fastgroup-3.html</loc>
-    <lastmod>2023-01-11T18:33:24.950Z</lastmod>
+    <lastmod>2023-01-16T04:28:47.788Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-01-21-pythonformatting.html</loc>
-    <lastmod>2023-01-11T18:33:25.250Z</lastmod>
+    <lastmod>2023-01-16T04:28:48.078Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-02-22-learningvue2.html</loc>
-    <lastmod>2023-01-11T18:33:25.600Z</lastmod>
+    <lastmod>2023-01-16T04:28:48.388Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-07-18-fastgroup-6.html</loc>
-    <lastmod>2023-01-11T18:33:26.050Z</lastmod>
+    <lastmod>2023-01-16T04:28:48.788Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-08-22-CStrings.html</loc>
-    <lastmod>2023-01-11T18:33:26.360Z</lastmod>
+    <lastmod>2023-01-16T04:28:49.068Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-06-10-Fast-group.html</loc>
-    <lastmod>2023-01-11T18:33:26.750Z</lastmod>
+    <lastmod>2023-01-16T04:28:49.348Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-09-01-fastgroup-10.html</loc>
-    <lastmod>2023-01-11T18:33:27.120Z</lastmod>
+    <lastmod>2023-01-16T04:28:49.648Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-06-21-fastgroup-2.html</loc>
-    <lastmod>2023-01-11T18:33:27.490Z</lastmod>
+    <lastmod>2023-01-16T04:28:49.958Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-02-04-Redash_parameters.html</loc>
-    <lastmod>2023-01-11T18:33:27.840Z</lastmod>
+    <lastmod>2023-01-16T04:28:50.228Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-03-19-Untitled.html</loc>
-    <lastmod>2023-01-11T18:33:28.120Z</lastmod>
+    <lastmod>2023-01-16T04:28:50.508Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-08-07-get_image_files.html</loc>
-    <lastmod>2023-01-11T18:33:28.580Z</lastmod>
+    <lastmod>2023-01-16T04:28:50.878Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-07-21-regex.html</loc>
-    <lastmod>2023-01-11T18:33:28.900Z</lastmod>
+    <lastmod>2023-01-16T04:28:51.158Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-06-05-DoNotHarm.html</loc>
-    <lastmod>2023-01-11T18:33:29.390Z</lastmod>
+    <lastmod>2023-01-16T04:28:51.528Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-11-11-Learning_Tamil.html</loc>
-    <lastmod>2023-01-11T18:33:29.740Z</lastmod>
+    <lastmod>2023-01-16T04:28:51.778Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-05-23-TryingOutngrook.html</loc>
-    <lastmod>2023-01-11T18:33:30.090Z</lastmod>
+    <lastmod>2023-01-16T04:28:52.058Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-07-07-fastgroup-4.html</loc>
-    <lastmod>2023-01-11T18:33:30.580Z</lastmod>
+    <lastmod>2023-01-16T04:28:52.428Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-08-07-iiitcourse.html</loc>
-    <lastmod>2023-01-11T18:33:30.890Z</lastmod>
+    <lastmod>2023-01-16T04:28:52.698Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2021/2021-06-16-fastgroup-1.html</loc>
-    <lastmod>2023-01-11T18:33:31.270Z</lastmod>
+    <lastmod>2023-01-16T04:28:53.008Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-05-19-fastai-54.html</loc>
-    <lastmod>2023-01-11T18:33:31.770Z</lastmod>
+    <lastmod>2023-01-16T04:28:53.468Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-07-28-fastai55.html</loc>
-    <lastmod>2023-01-11T18:33:32.120Z</lastmod>
+    <lastmod>2023-01-16T04:28:53.778Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-02-16-first_vacation.html</loc>
-    <lastmod>2023-01-11T18:33:32.430Z</lastmod>
+    <lastmod>2023-01-16T04:28:54.058Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-06-27-tipstolearnvim.html</loc>
-    <lastmod>2023-01-11T18:33:32.820Z</lastmod>
+    <lastmod>2023-01-16T04:28:54.398Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-07-06-gradio_spaces.html</loc>
-    <lastmod>2023-01-11T18:33:33.150Z</lastmod>
+    <lastmod>2023-01-16T04:28:54.668Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-05-10-fastai-53.html</loc>
-    <lastmod>2023-01-11T18:33:33.660Z</lastmod>
+    <lastmod>2023-01-16T04:28:55.118Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-05-28-fastai-walthrus1.html</loc>
-    <lastmod>2023-01-11T18:33:34.240Z</lastmod>
+    <lastmod>2023-01-16T04:28:55.548Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-05-30-malayalamtext-0.html</loc>
-    <lastmod>2023-01-11T18:33:34.700Z</lastmod>
+    <lastmod>2023-01-16T04:28:55.898Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-08-10-Deeplearningjapan.html</loc>
-    <lastmod>2023-01-11T18:33:35.220Z</lastmod>
+    <lastmod>2023-01-16T04:28:56.368Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-07-21-FastAI-lecturenotes-lesson7.html</loc>
-    <lastmod>2023-01-11T18:33:35.570Z</lastmod>
+    <lastmod>2023-01-16T04:28:56.768Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-07-23-EmacsvsVim_war.html</loc>
-    <lastmod>2023-01-11T18:33:35.890Z</lastmod>
+    <lastmod>2023-01-16T04:28:57.118Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-03-13-FOSSASIA-Day1.html</loc>
-    <lastmod>2023-01-11T18:33:36.190Z</lastmod>
+    <lastmod>2023-01-16T04:28:57.448Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-09-11-MultispeakerTTS_summary.html</loc>
-    <lastmod>2023-01-11T18:33:36.550Z</lastmod>
+    <lastmod>2023-01-16T04:28:57.778Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-03-14-FOSSASIA-Day2.html</loc>
-    <lastmod>2023-01-11T18:33:36.850Z</lastmod>
+    <lastmod>2023-01-16T04:28:58.058Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-11-03-Devsprints_experience.html</loc>
-    <lastmod>2023-01-11T18:33:37.160Z</lastmod>
+    <lastmod>2023-01-16T04:28:58.368Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-09-21-Paper_summaries.html</loc>
-    <lastmod>2023-01-11T18:33:37.610Z</lastmod>
+    <lastmod>2023-01-16T04:28:58.718Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-05-14-Monoliths_vs_microservices.html</loc>
-    <lastmod>2023-01-11T18:33:37.950Z</lastmod>
+    <lastmod>2023-01-16T04:28:59.068Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-09-22-Break_Half-way_mark.html</loc>
-    <lastmod>2023-01-11T18:33:38.220Z</lastmod>
+    <lastmod>2023-01-16T04:28:59.338Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-03-15-FOSSASIA-Day3.html</loc>
-    <lastmod>2023-01-11T18:33:38.540Z</lastmod>
+    <lastmod>2023-01-16T04:28:59.618Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-10-01-gobeyondhacktoberfest.html</loc>
-    <lastmod>2023-01-11T18:33:38.870Z</lastmod>
+    <lastmod>2023-01-16T04:28:59.878Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-09-29-projectreview.html</loc>
-    <lastmod>2023-01-11T18:33:39.250Z</lastmod>
+    <lastmod>2023-01-16T04:29:00.188Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-03-17-FOSSASIA-Day5.html</loc>
-    <lastmod>2023-01-11T18:33:39.600Z</lastmod>
+    <lastmod>2023-01-16T04:29:00.478Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-08-07-projecttopics.html</loc>
-    <lastmod>2023-01-11T18:33:39.960Z</lastmod>
+    <lastmod>2023-01-16T04:29:00.778Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-06-26-Jewels_from_DGPLUG_training.html</loc>
-    <lastmod>2023-01-11T18:33:40.280Z</lastmod>
+    <lastmod>2023-01-16T04:29:01.068Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-12-19-swift4tensorflowintro.html</loc>
-    <lastmod>2023-01-11T18:33:40.900Z</lastmod>
+    <lastmod>2023-01-16T04:29:01.568Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-09-23-paper_summary.html</loc>
-    <lastmod>2023-01-11T18:33:41.270Z</lastmod>
+    <lastmod>2023-01-16T04:29:01.908Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-09-03-What_is_Openstack.html</loc>
-    <lastmod>2023-01-11T18:33:41.590Z</lastmod>
+    <lastmod>2023-01-16T04:29:02.208Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-03-01-Contributing_to_Open_Source_With_CloudCV.html</loc>
-    <lastmod>2023-01-11T18:33:41.880Z</lastmod>
+    <lastmod>2023-01-16T04:29:02.508Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-07-19-Thoughts_on_linux_distros.html</loc>
-    <lastmod>2023-01-11T18:33:42.150Z</lastmod>
+    <lastmod>2023-01-16T04:29:02.798Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-06-22-Quotes_From_The_Alchemist.html</loc>
-    <lastmod>2023-01-11T18:33:42.470Z</lastmod>
+    <lastmod>2023-01-16T04:29:03.098Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-07-14-Brownie_points_on_SSD.html</loc>
-    <lastmod>2023-01-11T18:33:42.800Z</lastmod>
+    <lastmod>2023-01-16T04:29:03.388Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-07-25-Understanding_what_is_DevSprints_MEC.Conf.html</loc>
-    <lastmod>2023-01-11T18:33:43.210Z</lastmod>
+    <lastmod>2023-01-16T04:29:03.688Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-03-16-FOSSASIA-Day4.html</loc>
-    <lastmod>2023-01-11T18:33:43.540Z</lastmod>
+    <lastmod>2023-01-16T04:29:03.958Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-09-15-MLSlackgroups.html</loc>
-    <lastmod>2023-01-11T18:33:43.820Z</lastmod>
+    <lastmod>2023-01-16T04:29:04.208Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-09-17-Precision_values.html</loc>
-    <lastmod>2023-01-11T18:33:44.170Z</lastmod>
+    <lastmod>2023-01-16T04:29:04.478Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-02-11-SVD_NMF.html</loc>
-    <lastmod>2023-01-11T18:33:44.570Z</lastmod>
+    <lastmod>2023-01-16T04:29:04.808Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-09-08-fossmec1outn.html</loc>
-    <lastmod>2023-01-11T18:33:44.940Z</lastmod>
+    <lastmod>2023-01-16T04:29:05.108Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-07-30-Malayalam_computing.html</loc>
-    <lastmod>2023-01-11T18:33:45.240Z</lastmod>
+    <lastmod>2023-01-16T04:29:05.418Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2019/2019-08-02-SeminarTopics.html</loc>
-    <lastmod>2023-01-11T18:33:45.520Z</lastmod>
+    <lastmod>2023-01-16T04:29:05.698Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-05-23-nlpkagglecomp.html</loc>
-    <lastmod>2023-01-11T18:33:45.920Z</lastmod>
+    <lastmod>2023-01-16T04:29:06.068Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-02-27-questionansweringwithhf.html</loc>
-    <lastmod>2023-01-11T18:33:46.620Z</lastmod>
+    <lastmod>2023-01-16T04:29:06.708Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-03-07-Books_readFebruary.html</loc>
-    <lastmod>2023-01-11T18:33:46.960Z</lastmod>
+    <lastmod>2023-01-16T04:29:06.988Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-01-08-Aws-Reinvent_recap.html</loc>
-    <lastmod>2023-01-11T18:33:47.300Z</lastmod>
+    <lastmod>2023-01-16T04:29:07.308Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-06-09-CS229_lessonnotes.html</loc>
-    <lastmod>2023-01-11T18:33:47.600Z</lastmod>
+    <lastmod>2023-01-16T04:29:07.608Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-08-09-Mindmaster.html</loc>
-    <lastmod>2023-01-11T18:33:47.970Z</lastmod>
+    <lastmod>2023-01-16T04:29:07.948Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-02-26-replaceurl.html</loc>
-    <lastmod>2023-01-11T18:33:48.270Z</lastmod>
+    <lastmod>2023-01-16T04:29:08.248Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-11-30-aireading.html</loc>
-    <lastmod>2023-01-11T18:33:48.590Z</lastmod>
+    <lastmod>2023-01-16T04:29:08.558Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-01-13-newbeginnings.html</loc>
-    <lastmod>2023-01-11T18:33:48.940Z</lastmod>
+    <lastmod>2023-01-16T04:29:08.858Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-03-14-swift0.html</loc>
-    <lastmod>2023-01-11T18:33:49.360Z</lastmod>
+    <lastmod>2023-01-16T04:29:09.158Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-12-20-Aoc-1.html</loc>
-    <lastmod>2023-01-11T18:33:49.670Z</lastmod>
+    <lastmod>2023-01-16T04:29:09.428Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-11-16-Various_python_distributions.html</loc>
-    <lastmod>2023-01-11T18:33:49.980Z</lastmod>
+    <lastmod>2023-01-16T04:29:09.738Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-10-05-Pycon_India.html</loc>
-    <lastmod>2023-01-11T18:33:50.260Z</lastmod>
+    <lastmod>2023-01-16T04:29:09.998Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-06-01-Books_read.html</loc>
-    <lastmod>2023-01-11T18:33:50.560Z</lastmod>
+    <lastmod>2023-01-16T04:29:10.268Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-05-21-deoldify.html</loc>
-    <lastmod>2023-01-11T18:33:50.900Z</lastmod>
+    <lastmod>2023-01-16T04:29:10.528Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-03-21-BengaliAI_experience.html</loc>
-    <lastmod>2023-01-11T18:33:51.260Z</lastmod>
+    <lastmod>2023-01-16T04:29:10.838Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-11-22-weightloss.html</loc>
-    <lastmod>2023-01-11T18:33:51.650Z</lastmod>
+    <lastmod>2023-01-16T04:29:11.248Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-10-13-MyVSCODE_setup.html</loc>
-    <lastmod>2023-01-11T18:33:51.930Z</lastmod>
+    <lastmod>2023-01-16T04:29:11.558Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-07-09-TWTW_week1.html</loc>
-    <lastmod>2023-01-11T18:33:52.250Z</lastmod>
+    <lastmod>2023-01-16T04:29:11.868Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2020/2020-06-01-ideasforMLcomputing.html</loc>
-    <lastmod>2023-01-11T18:33:52.580Z</lastmod>
+    <lastmod>2023-01-16T04:29:12.168Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-04-26-fastai-51.html</loc>
-    <lastmod>2023-01-11T18:33:53.070Z</lastmod>
+    <lastmod>2023-01-16T04:29:12.578Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-04-26-fastai-50.html</loc>
-    <lastmod>2023-01-11T18:33:53.430Z</lastmod>
+    <lastmod>2023-01-16T04:29:12.858Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-07-26-wandbbug.html</loc>
-    <lastmod>2023-01-11T18:33:56.970Z</lastmod>
+    <lastmod>2023-01-16T04:29:16.118Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-08-04-fastai56.html</loc>
-    <lastmod>2023-01-11T18:33:57.520Z</lastmod>
+    <lastmod>2023-01-16T04:29:16.418Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-06-04-baselinemodel.html</loc>
-    <lastmod>2023-01-11T18:33:58.560Z</lastmod>
+    <lastmod>2023-01-16T04:29:16.908Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-05-03-fastai-52.html</loc>
-    <lastmod>2023-01-11T18:33:59.210Z</lastmod>
+    <lastmod>2023-01-16T04:29:17.308Z</lastmod>
   </url>
   <url>
     <loc>https://kurianbenoy.github.io/myblog/posts/2022-05-01-audiocnndemo.html</loc>
-    <lastmod>2023-01-11T18:34:02.230Z</lastmod>
+    <lastmod>2023-01-16T04:29:19.268Z</lastmod>
   </url>
 </urlset>
