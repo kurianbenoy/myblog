@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About me\nHi, I’m Kurian Benoy, a ML Engineer who is working in sentient.io. I have been building impactful data science projects over the past few years."
-  },
-  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
@@ -1692,12 +1685,5 @@
     "title": "Music genre classifier using fast.ai",
     "section": "Conclusion",
     "text": "Conclusion\nWe trained a ML model which can identify with 54.4% accuracy to classify in a music file which genre it is. It’s not so bad for a baseline model. Dien Hoa Truong has shared some techniques which he learned during Kaggle competition with music genres.\n\nThanks for reading :pray:"
-  },
-  {
-    "objectID": "index.html#kurian-benoy",
-    "href": "index.html#kurian-benoy",
-    "title": "Kurian Benoy",
-    "section": "Kurian Benoy",
-    "text": "Kurian Benoy\nHi, I am a Machine Learning Engineer working in fast-paced startup based in Singapore. I have been coding professionally well over two years in buisness. I have contributed to various open source organizations like Keras, DVC, HuggingFace, fast.ai, Swathanthra Malayalam Computing, CloudCV etc. I am Kaggle 2x expert and have won best notebook award in a Kaggle competion and got shout out from Jeremy. I like to speak and interact with developer community. I have given talk as expert in competence of Machine Learning and Python-core in Pycon India, a conference attended 1000 people.\nI am going to follow an open to contact policy anyone, so feel free to reach me anytime. I am quite easy to reach out via email, yet feel free to connect or contact with me in any of social media platforms."
   }
 ]
