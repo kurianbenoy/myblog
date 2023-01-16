@@ -4,19 +4,21 @@ project:
   preview:
     port: 4900 
 website:
-  title: "kurianbenoy"
+  title: "Kurian Benoy"
   navbar:
     right:
       - text: "Blog"
         href: blog.html
       - text: "Talks"
         href: talks.html
-      - icon: github
-        href: https://github.com/kurianbenoy
-      - icon: twitter
-        href: https://twitter.com/kurianbenoy2
       - text: "TIL"
         href: https://til.kurianbenoy.com/
+      - icon: linkedin 
+        href: "https://linkedin.com/in/kurianbenoy"
+      - icon: twitter
+        href: https://twitter.com/kurianbenoy2
+      - icon: github
+        href: https://github.com/kurianbenoy
       - icon: rss
         href: blog.xml
 format:
